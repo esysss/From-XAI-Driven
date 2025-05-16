@@ -1,4 +1,4 @@
-# Process Mining of Surrogate Decision Paths for Clinical Explainability
+# From XAI-Driven Decision Paths to Processes: Mining and Clustering Decision Paths for Interpretable Kidney Transplant Prediction
 
 This repository contains the implementation for the paper _"Process Mining of Surrogate Decision Paths for Clinical Explainability"_. The goal of this project is to extract, cluster, and analyze decision paths from surrogate models trained to approximate black-box machine learning models used in kidney transplant outcome prediction.
 
