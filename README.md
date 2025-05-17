@@ -15,4 +15,4 @@ The code performs the following key steps:
 ## 📂 Repository Structure
 
 - `Main.ipynb` — The primary Jupyter notebook that contains the **entire workflow**, including data preprocessing, clustering, process model discovery, and evaluation.
-- `Results/` - contains the mined process models per outcome (survived, non-survived) and per cluster.
+- `Results/` - The mined process models on the entire event log, per outcome (survived, non-survived), and per cluster.
